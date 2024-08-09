@@ -1,0 +1,75 @@
+:root {
+    --cor-principal: #3fa33f;
+}
+
+body {
+    background-color: var(--cor-principal);
+}
+
+#titulo {
+    color: white;
+    text-align: left;
+    position: relative;
+    margin-top: 26%;
+    font-family: "Audiowide", sans-serif;
+    margin-right: 45%;
+    margin-left: 2%;
+    
+}
+
+#Agrinho1 {
+    margin-left: 65%;
+    width: 70%;
+    position: relative;
+    left: -950px;
+    
+}
+
+#Agrinho2 {
+    width: 60%;
+    margin-left: 55%;
+    position: relative;
+    top: -2250px;
+}
+
+#texto1 {
+    margin-left: 2%;
+    font-family: "Audiowide" , sans-serif;
+    
+}
+
+#texto2 {
+    font-family: "Audiowide" , sans-serif;
+    margin-left: 2%;
+    
+}
+
+#texto3 {
+    margin-left: 2%;
+    font-family: "Audiowide" , sans-serif;
+    margin-top: 5%;
+}
+
+#texto4 {
+    font-family: "Audiowide" , sans-serif;
+    margin-left: 2%;
+    margin-top: 5%;
+    font-size: larger;
+    
+}
+
+#texto5 {
+    font-family: "Audiowide" , sans-serif;
+    margin-left: 2%;
+    
+}
+
+#Lista1 {
+    text-align: left;
+    margin-top: 5%;
+
+}
+
+ul {
+    font-family: "Audiowide", sans-serif;
+}
